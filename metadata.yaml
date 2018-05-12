@@ -22,6 +22,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/43099
     - http://en.wikipedia.org/wiki/Molly_Elliot_Seawell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18022#Betty-at-Fort-Blizzard
 gutenberg_issued: '2006-03-20'
 gutenberg_type: Text
 identifiers:
